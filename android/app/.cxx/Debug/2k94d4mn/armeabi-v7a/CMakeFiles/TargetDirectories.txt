@@ -1,0 +1,2 @@
+G:/PROJECTMDBISMILLAH/ecotrack_app/android/app/.cxx/Debug/2k94d4mn/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/PROJECTMDBISMILLAH/ecotrack_app/android/app/.cxx/Debug/2k94d4mn/armeabi-v7a/CMakeFiles/rebuild_cache.dir
